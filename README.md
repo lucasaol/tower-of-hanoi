@@ -1,6 +1,6 @@
 # Torre de Hanói 🗼
 
-![Static Badge](https://img.shields.io/badge/n%C3%ADvel-b%C3%A1sico-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/n%C3%ADvel-b%C3%A1sico-green?style=for-the-badge)
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
