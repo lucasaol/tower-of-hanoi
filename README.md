@@ -8,7 +8,7 @@
 ### Algoritmo para solucionar o jogo "[Torre de Hanói](https://educador.brasilescola.uol.com.br/estrategias-ensino/torre-hanoi.htm)"
 ![Torre de Hanói](https://cdn.kastatic.org/ka-perseus-images/5b5fb2670c9a185b2666637461e40c805fcc9ea5.png)
 
-O código foi desenvolvido durante o curso de Sistemas da Informação, em 2021. Confesso que estava perdido pelos arquivos, nem me recordava. 😅
+O código foi desenvolvido durante o curso de Sistemas da Informação, em 2021 como um exercício de recursividade. Confesso que esse código estava perdido pelos arquivos, nem eu mesmo recordava. 😅
 
 Penso que seria interessante incrementá-lo como passos futuros:
 - Deixar mais visual, talvez ao invés dos textos, "desenhar" na tela as movimentações com o HTML + CSS.
